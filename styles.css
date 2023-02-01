@@ -1,0 +1,25 @@
+html {
+    background-color: lightcoral;
+}
+
+.getStarted_btn {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    margin: auto;
+    text-align: center;
+}
